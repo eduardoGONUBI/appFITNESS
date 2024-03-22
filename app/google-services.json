@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "784196810535",
+    "project_id": "startapp-8bcd4",
+    "storage_bucket": "startapp-8bcd4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784196810535:android:6eb3324bb231a3897c1b02",
+        "android_client_info": {
+          "package_name": "com.example.startapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRDWKRN-XlWonWHliYRBcUaS_tVWIPsbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
